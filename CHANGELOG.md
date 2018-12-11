@@ -2,6 +2,8 @@
 
 ### Unreleased
 
+* Remove deployment from TravisCI infrastructure as it is no longer feasible.
+
 ### [v0.17](https://github.com/arez/arez-when/tree/v0.17) (2018-12-10)
 [Full Changelog](https://github.com/arez/arez-when/compare/v0.16...v0.17)
 
