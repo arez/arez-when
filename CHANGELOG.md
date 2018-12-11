@@ -2,6 +2,7 @@
 
 ### Unreleased
 
+* Update the 'org.realityforge.arez' dependencies to version '0.121'
 * Remove deployment from TravisCI infrastructure as it is no longer feasible.
 
 ### [v0.17](https://github.com/arez/arez-when/tree/v0.17) (2018-12-10)
