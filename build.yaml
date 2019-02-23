@@ -19,7 +19,7 @@ artifacts:
 
   jsinterop_annotations: com.google.jsinterop:jsinterop-annotations:jar:1.0.2
 
-  jsinterop_base: org.realityforge.com.google.jsinterop:base:jar:1.0.0-b1-e6d791f
+  jsinterop_base: org.realityforge.com.google.jsinterop:base:jar:1.0.0-b2-e6d791f
 
   arez_core: org.realityforge.arez:arez-core:jar:0.130
   arez_processor: org.realityforge.arez:arez-processor:jar:0.130

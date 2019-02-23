@@ -2,6 +2,8 @@
 
 ### Unreleased
 
+* Upgrade the `org.realityforge.com.google.jsinterop` artifact to version `1.0.0-b2-e6d791f`.
+
 ### [v0.27](https://github.com/arez/arez-when/tree/v0.27) (2019-02-14)
 [Full Changelog](https://github.com/arez/arez-when/compare/v0.26...v0.27)
 
