@@ -7,7 +7,6 @@ import arez.ObserverError;
 import java.util.ArrayList;
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
-import org.realityforge.braincheck.BrainCheckTestUtil;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import static org.testng.Assert.*;
@@ -20,7 +19,6 @@ public abstract class AbstractTest
   @BeforeMethod
   protected void beforeTest()
   {
-    BrainCheckTestUtil.resetConfig( false );
     ArezTestUtil.resetConfig( false );
     ArezTestUtil.enableZones();
     _ignoreObserverErrors = false;
@@ -31,7 +29,6 @@ public abstract class AbstractTest
   @AfterMethod
   protected void afterTest()
   {
-    BrainCheckTestUtil.resetConfig( true );
     ArezTestUtil.resetConfig( true );
     if ( !_ignoreObserverErrors && !_observerErrors.isEmpty() )
     {

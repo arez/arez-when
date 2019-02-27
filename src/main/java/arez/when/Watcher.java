@@ -12,7 +12,7 @@ import arez.SafeProcedure;
 import java.util.Objects;
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
-import static org.realityforge.braincheck.Guards.*;
+import static arez.Guards.*;
 
 /**
  * This class is used to wait until a condition is true, then run effect and remove watch.

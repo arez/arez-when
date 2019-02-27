@@ -4,6 +4,7 @@
 
 * Upgrade the `org.realityforge.braincheck` artifact to version `1.13.0`.
 * Update the 'org.realityforge.arez' dependencies to version '0.132'
+* Remove the `org.realityforge.braincheck` dependency and replace with arez invariants.
 
 ### [v0.28](https://github.com/arez/arez-when/tree/v0.28) (2019-02-24)
 [Full Changelog](https://github.com/arez/arez-when/compare/v0.27...v0.28)
