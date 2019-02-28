@@ -1,3 +1,8 @@
+# Deprecated
+
+<p align="center">This project has been deprecated. In modern version of Arezs it is trivial to reimplement and with upcoming projects such as <a href="https://github.com/spritz/spritz">Spritz</a>, it is no longer consider a recommended pattern.</p>
+
+---
 # Arez-When
 
 [![Build Status](https://secure.travis-ci.org/arez/arez-when.svg?branch=master)](http://travis-ci.org/arez/arez-when)
